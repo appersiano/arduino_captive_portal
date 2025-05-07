@@ -38,7 +38,7 @@ This project is ideal for:
  
 	-	Install the ESP8266 or ESP32 board support via Board Manager
 	-	Install the required libraries:
-	-	ESPAsyncWebServer
+ 	-	WebServer
 	-	DNSServer
 
 3.	Configure your settings:
